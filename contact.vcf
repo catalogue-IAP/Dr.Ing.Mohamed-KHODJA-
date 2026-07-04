@@ -1,11 +1,11 @@
 BEGIN:VCARD
-VERSION:4.0
-N:KHODJA;Mohamed;;Dr.;
-FN:Dr. Mohamed KHODJA
-ORG:SONATRACH - Institut Algérien du Pétrole (IAP)
-TITLE:Dr. Ing. | IAP Managing Director
-TEL;TYPE=WORK:+21324795700
-TEL;TYPE=CELL:+213661656717
+VERSION:3.0
+N:KHODJA;Mohamed;;;
+FN:Mohamed KHODJA
+ORG:SONATRACH - IAP
+TITLE:IAP Managing Director
+TEL;WORK:+21324795700
+TEL;CELL:+213661656717
 EMAIL:mohamed.khodja@sonatrach.dz
 URL:https://sonatrach.com/
 END:VCARD
