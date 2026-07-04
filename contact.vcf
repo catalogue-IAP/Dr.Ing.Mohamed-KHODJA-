@@ -1,16 +1,14 @@
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 N:KHODJA;Mohamed;;Dr. Ing.;
-FN:Dr. Ing. Mohamed KHODJA, HdR
-ORG:SONATRACH - Institut Algérien du Pétrole (IAP)
+FN:Dr. Ing. Mohamed KHODJA
+ORG:SONATRACH - Institut Algerien du Petrole IAP
 TITLE:IAP Managing Director
-ROLE:Vice President, Algerian Academy of Sciences and Technology
-NOTE:Vice President of the Algerian Academy of Sciences and Technology
-TEL;TYPE=WORK:+21324795700
+TEL;TYPE=WORK,VOICE:+21324795700
 TEL;TYPE=CELL:+213661656717
-TEL;TYPE=FAX:+21324795721
-EMAIL:mohamed.khodja@sonatrach.dz
-ADR:;;Avenue du 1er Novembre;Boumerdès;;35000;Algeria
+TEL;TYPE=WORK,FAX:+21324795721
+EMAIL;TYPE=WORK:mohamed.khodja@sonatrach.dz
+ADR;TYPE=WORK:;;Avenue du 1er Novembre;Boumerdes;;35000;Algeria
 URL:https://sonatrach.com/
-URL:https://aast.dz/
+NOTE:HdR. Vice President of Algerian Academy of Sciences and Technology. Website: https://aast.dz/
 END:VCARD
